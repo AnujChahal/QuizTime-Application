@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1088042650809",
+    "firebase_url": "https://quiztime-1079sr-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quiztime-1079sr",
+    "storage_bucket": "quiztime-1079sr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088042650809:android:a78fc45072d50651db1f68",
+        "android_client_info": {
+          "package_name": "com.synac.quiztime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfnpiWr_8OZY_4F4li6Z1YL7HmxSlf8fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
