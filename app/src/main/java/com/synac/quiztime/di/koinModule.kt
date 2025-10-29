@@ -48,5 +48,4 @@ val koinModule = module {
     viewModelOf(::DashboardViewModel)
     viewModelOf(::ResultViewModel)
     viewModelOf(::IssueReportViewModel)
-
 }

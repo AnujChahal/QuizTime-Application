@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "QuizTime"
 include(":app")
- 
+include(":ktor-backend")

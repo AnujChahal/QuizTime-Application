@@ -93,7 +93,7 @@ class QuizViewModel(
 
             QuizAction.SubmitQuizConfirmButtonClick -> {
                 _state.update { it.copy(isSubmitQuizDialogOpen = false) }
-                _event.trySend(QuizEvent.NavigateToResultScreen)
+//                _event.trySend(QuizEvent.NavigateToResultScreen)
                 submitQuiz()
             }
 

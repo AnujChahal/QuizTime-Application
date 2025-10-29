@@ -14,7 +14,7 @@ object DatabaseFactory {
                 klass = QuizDatabase::class.java,
                 name = DATABASE_NAME
             )
-            .fallbackToDestructiveMigration()
+//            .fallbackToDestructiveMigration()
             .build()
     }
 
